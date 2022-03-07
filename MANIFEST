@@ -1,0 +1,7 @@
+MANIFEST
+LICENSE
+README
+Makefile.PL
+lib/Text/NSR.pm
+t/001_load.t
+t/002_read.t
